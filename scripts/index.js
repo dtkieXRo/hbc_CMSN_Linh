@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Jan 29, 2020',
-  name: 'Darlene'
+  birthdate: 'Oc 16, 2024',
+  name: 'Chị Linh <3'
 };
 
 function hideEverything() {
@@ -496,6 +496,6 @@ x = setInterval(function() {
 
   // if (distance < 0) {
   //     clearInterval(x);
-  //     console.log("happy birthday");
+  //     console.log("Chúc mừng sinh nhật LINH <33");
   // }
 }, second);
